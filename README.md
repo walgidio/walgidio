@@ -1,5 +1,5 @@
 # Walgídio Santos 🧑🏽‍💻
-Hi! I'm Walgidio, I'm a Computer Engineering student at ISCTE - University Institute of Lisbon with a strong interest in Software Development and AI. I enjoy solving problems and building stuff that help people in meaningful ways.
+Hi! I'm Walgidio, I'm a Computer Engineering student at ISCTE - University Institute of Lisbon with a strong interest in Software Development and AI. I enjoy solving problems and building things that help people in meaningful ways.
 
 
 ## 🌐 Socials:
