@@ -1,8 +1,9 @@
 # Walgídio Santos 🧑🏽‍💻
-Hey There! I'm currently a Computer Engineering student at ISCTE - University Institute of Lisbon with a strong interest in Software Development and AI. I enjoy solving problems and building solutions that help people in meaningful ways. Feel free to reach out!
+📚 MSc Computer Engineering Student ISCTE - University Institute of Lisbon
+💻 Software Engineer at Critical TechWorks / BMW Group
+📍 Based in Lisbon, Portugal
 
-
-## 🌐 Socials:
+## 🌐 Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/walgidio-santos/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:walgidio.s@gmail.com) 
 
 # 💻 Tech Stack:
