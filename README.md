@@ -1,6 +1,8 @@
 # Walgídio Santos 🧑🏽‍💻
 📚 MSc Computer Engineering Student ISCTE - University Institute of Lisbon
+
 💻 Software Engineer at Critical TechWorks / BMW Group
+
 📍 Based in Lisbon, Portugal
 
 ## 🌐 Contacts:
